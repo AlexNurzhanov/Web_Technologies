@@ -1,0 +1,42 @@
+body{
+	background-image: url(../images/фон.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+.первичный {
+	color: #fff;
+	font-style: italic;
+	text-align: center;
+}
+
+.вторичный {
+	color: #fff;
+	font-style: italic;
+	text-align: center;
+}
+
+.способности {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.описание {
+	color: #3ce268;
+	font-style: italic;
+}
+
+#обязанности {
+	color: #3ce268;
+	font-style: italic;
+}
+
+.таланты {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	
+}
+#таланты li { display: inline; }
